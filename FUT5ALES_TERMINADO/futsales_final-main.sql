@@ -1,0 +1,1 @@
+SELECT * FROM FUT5ALERO.producto;
